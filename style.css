@@ -1,0 +1,65 @@
+/*Section Principale */
+.container {
+    background-image: url('image2.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+}
+
+#container_row {
+    height: 500px;
+}
+#container_font {
+    margin-top: 100px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    font-size: 5rem;
+}
+#container_p {
+    color: white; 
+    font-size: 30px; 
+    font-family: fantasy;
+}
+
+input, button {
+    display: inline-flex;
+}
+button {
+    background-color: rgb(114, 211, 17);
+}
+
+a {
+    color: white;
+}
+
+.learn {
+    color: rgb(38, 38, 244);
+    margin-left: 80px;
+}
+.container1 {
+    background-color: rgb(114, 211, 17);
+    height: 200px;
+}
+.container2 {
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    margin-top: 50px;
+    width: 1400px;
+    margin-left: 70px;
+}
+table {
+    width: 500px;
+}
+#latest{
+    font-size: 3rem;
+    margin-left: 500px;
+    margin-top: -50px;
+}
+.rounded-circle {
+    width: 150px; 
+    height: 150px; 
+    margin-top: 10px; 
+    margin-left: 50px;
+}
